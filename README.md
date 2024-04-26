@@ -30,8 +30,11 @@ cd open3d
 
 #### Open conda terminal and run these commands in the same sequence as shown below.
 conda create -n open3denv python=3.6
+
 conda activate open3denv
+
 conda install -c open3d-admin open3d==0.8.0.0
+
 pip install -r requirements.txt
 
 ## 🧰 Tools and Techniques
