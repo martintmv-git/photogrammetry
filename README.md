@@ -4,7 +4,7 @@
 
 Develop a platform for generating high-quality, photorealistic 3D models from 2D images aimed at revolutionizing advertisement photography. This solution leverages cutting-edge AI techniques to reduce the environmental impact and costs associated with traditional product photography.
 
-##🎯 Goals
+## 🎯 Goals
 
     Environmental Impact: Minimize the carbon footprint of traditional photography by replacing it with a digital workflow.
     Cost-Effective: Reduce costs involved in physical product setups and logistics.
