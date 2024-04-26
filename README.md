@@ -1,4 +1,3 @@
-# Photogrammetry
 # 🌟 3D Modeling Platform - From Vision to Virtual
 ## 📖 Introduction
 
@@ -24,10 +23,15 @@ Develop a platform for generating high-quality, photorealistic 3D models from 2D
 
 ### Installation
 
-bash
+#### Open terminal/bash
 
-git clone https://your-repository-link-here
-cd your-project-folder
+git clone [https://your-repository-link-here](https://github.com/martintmv-git/photogrammetry.git)
+cd open3d
+
+#### Open conda terminal and run these commands in the same sequence as shown below.
+conda create -n open3denv python=3.6
+conda activate open3denv
+conda install -c open3d-admin open3d==0.8.0.0
 pip install -r requirements.txt
 
 ## 🧰 Tools and Techniques
