@@ -1,6 +1,6 @@
-# Workflow Setup Guide
+# SDXL RemBG Workflow Setup Guide
 
-![RB-IBDM](https://i.imgur.com/ITSWkjK.jpeg)
+![SDXL RemBG](https://i.imgur.com/ITSWkjK.jpeg)
 
 ## Nodes Installation
 
