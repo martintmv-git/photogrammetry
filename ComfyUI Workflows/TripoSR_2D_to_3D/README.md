@@ -15,4 +15,3 @@ To ensure you have the correct environment setup, you'll need to install the fol
 For this workflow to function correctly, you'll need to download and install specific models:
 
   - [TripoSR](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR)
-- **SDXL LoRA (4 steps LoRA recommended)**: Optimizes the Stable Diffusion model for fewer steps without compromising quality.
