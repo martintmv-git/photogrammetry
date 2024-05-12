@@ -9,7 +9,6 @@ To ensure you have the correct environment setup, you'll need to install the fol
 - **ComfyUI Manager**: A tool for managing and importing workflows within ComfyUI.
 
   - [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
-- **IPAdapter Plus v2**: Enhances the workflow with advanced image processing capabilities.
 
 ## Models Installation
 
