@@ -1,4 +1,3 @@
-# SDXL SAM Dino Workflow Setup Guide
+# SDXL SAM DINO Workflow Setup Guide
 
-![alt text](https://i.imgur.com/EjucMWd.png)
-
+![alt text](https://imgur.com/dG8py01.png)
