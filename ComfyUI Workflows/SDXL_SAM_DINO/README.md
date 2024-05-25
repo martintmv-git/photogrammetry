@@ -1,4 +1,4 @@
 # SDXL SAM Dino Workflow Setup Guide
 
-![alt text](https://prnt.sc/xUXqnXFNu6pV.png)
+![alt text](https://i.imgur.com/EjucMWd.png)
 
