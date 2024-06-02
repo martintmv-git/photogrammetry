@@ -32,6 +32,6 @@ You should use **advertisement product photography, photorealistic** to trigger 
 
 Weights for this model are available in Safetensors format.
 
-[Download 1 - lora_advertisement_photography.safetensors](https://huggingface.co/martintmv/LoRA/blob/main/lora_advertisement_photography.safetensors)
+[Download 1 - lora_advertisement_photography.safetensors](https://huggingface.co/martintmv/LoRA/tree/main)
 
-[Download 2 - lora_advertisement_photography_kohya.safetensors](https://huggingface.co/martintmv/LoRA/blob/main/lora_advertisement_photography_kohya.safetensors)
+[Download 2 - lora_advertisement_photography_kohya.safetensors](https://huggingface.co/martintmv/LoRA/tree/main)
