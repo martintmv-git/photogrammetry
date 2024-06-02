@@ -1,6 +1,10 @@
 # SDXL Trained LoRA![SDXL LoRA](https://i.ibb.co/D8d1FRH/Screenshot-2024-06-02-at-19-48-44.png)
 
-# SDXL LoRA DreamBooth - martintmv/advertisement-photography-LoRA
+# Why we need to add IC-Light? Example:
+
+![IC Light HF Space](https://i.ibb.co/5hhcpjK/Screenshot-2024-06-02-at-20-01-56.png)
+
+## SDXL LoRA DreamBooth - martintmv/advertisement-photography-LoRA
 
 ## Model description
 
