@@ -1,6 +1,6 @@
 # SDXL RemBG (IpAdapter_plus) Workflow Setup Guide
 
-![SDXL RemBG](https://i.ibb.co/54mcdQF/Screenshot-2024-06-01-at-18-52-22.png)
+![SDXL RemBG](https://i.ibb.co/9gxXsDT/Screenshot-2024-06-03-at-13-14-28.png)
 
 ## Nodes Installation
 
