@@ -1,3 +1,4 @@
+
 ---
 tags:
 - autotrain
@@ -12,7 +13,8 @@ base_model: stabilityai/stable-diffusion-xl-base-1.0
 instance_prompt: advertisement product photography, photorealistic
 license: openrail++
 ---
-# SDXL LoRA DreamBooth - martintmv/advertisement-photography-LoRA
+    
+# AutoTrain SDXL LoRA DreamBooth - martintmv/advertisement-photography-LoRA
 
 ## Model description
 
@@ -26,12 +28,11 @@ Special VAE used for training: None.
 
 ## Trigger words
 
-You should use **advertisement product photography, photorealistic** to trigger the image generation.
+You should use advertisement product photography, photorealistic to trigger the image generation.
 
 ## Download model
 
 Weights for this model are available in Safetensors format.
 
-[Download 1 - lora_advertisement_photography.safetensors](https://huggingface.co/martintmv/LoRA/tree/main)
+[Download](https://huggingface.co/martintmv/advertisement-photography-SDXL-LoRA/tree/main) them in the Files & versions tab.
 
-[Download 2 - lora_advertisement_photography_kohya.safetensors](https://huggingface.co/martintmv/LoRA/tree/main)
