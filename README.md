@@ -1,4 +1,16 @@
 # 🌟 3D Modeling Platform - From Vision to Virtual
+
+![Final Presentation GenAI TQ5-1](https://github.com/martintmv-git/photogrammetry/assets/101264514/0f441671-ec7c-4eff-a06a-627854869574)
+![Final Presentation GenAI TQ5-2](https://github.com/martintmv-git/photogrammetry/assets/101264514/0b1f46fd-38ce-40dd-8254-1b18cc903229)
+![Final Presentation GenAI TQ5-3](https://github.com/martintmv-git/photogrammetry/assets/101264514/82b9e456-964b-4fc7-a9ac-ec90d14a6de7)
+![Final Presentation GenAI TQ5-4](https://github.com/martintmv-git/photogrammetry/assets/101264514/415f7731-7368-40f6-a137-692972ca8b1d)
+![Final Presentation GenAI TQ5-5](https://github.com/martintmv-git/photogrammetry/assets/101264514/e662291e-79e2-4da6-9ff8-1b5f507cdff0)
+![Final Presentation GenAI TQ5-6](https://github.com/martintmv-git/photogrammetry/assets/101264514/fd3e4474-2a1e-488d-abae-927dfd5ae480)
+![Final Presentation GenAI TQ5-7](https://github.com/martintmv-git/photogrammetry/assets/101264514/513dc9de-810f-4b14-b87c-887d1a16689e)
+![Final Presentation GenAI TQ5-8](https://github.com/martintmv-git/photogrammetry/assets/101264514/68ae8773-94bd-4008-ba7a-81efb05dee2c)
+![Final Presentation GenAI TQ5-9](https://github.com/martintmv-git/photogrammetry/assets/101264514/3a03d0dc-2ee5-4473-8577-299ae45f40f1)
+![Final Presentation GenAI TQ5-10](https://github.com/martintmv-git/photogrammetry/assets/101264514/c90625dc-241c-4a35-94dc-a9cff94f4d5b)
+
 ## 📖 Introduction
 
 Develop a platform for generating high-quality, photorealistic 3D models from 2D images aimed at revolutionizing advertisement photography. This solution leverages cutting-edge AI techniques to reduce the environmental impact and costs associated with traditional product photography.
