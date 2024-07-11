@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td><img src="src/i1.png" width="1000"></td>
-    <td><img src="src/i2.webp" width="1000"></td>
-    <td><img src="src/i3.gif" width="300"></td>
+    <td><img src="src/i1.png"></td>
+    <td><img src="src/i2.webp"></td>
+    <td><img src="src/i3.gif"></td>
   </tr>
 </table>
 
