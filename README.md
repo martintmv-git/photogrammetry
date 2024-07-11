@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td><img src="src/i1.png" width="360"></td>
-    <td><img src="src/i2.webp" width="360"></td>
-    <td><img src="src/i3.gif" width="360"></td>
+    <td><img src="src/i1.png" width="1000"></td>
+    <td><img src="src/i2.webp" width="1000"></td>
+    <td><img src="src/i3.gif" width="300"></td>
   </tr>
 </table>
 
@@ -45,7 +45,7 @@ Users and businesses can significantly cut down the time and resources spent on 
 
 ## 📚 References
 
-[https://github.com/sicxu/Deep3DFaceRecon_pytorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)
-[https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)
-[https://github.com/martintmv-git/comfy-anything](https://github.com/martintmv-git/comfy-anything)
-[https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- [https://github.com/sicxu/Deep3DFaceRecon_pytorch](https://github.com/sicxu/Deep3DFaceRecon_pytorch)
+- [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)
+- [https://github.com/martintmv-git/comfy-anything](https://github.com/martintmv-git/comfy-anything)
+- [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
