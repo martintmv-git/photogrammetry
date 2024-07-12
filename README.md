@@ -1,10 +1,26 @@
 # 🪄 Promotional Generative AI [Experimental, Research-Based] 
 
-<table>
+<table align=center>
   <tr>
-    <td><img src="src/i1.png"></td>
-    <td><img src="src/i2.webp"></td>
-    <td><img src="src/i3.gif"></td>
+    <th style="text-align:center;">Input Image</th>
+    <th style="text-align:center;">IC-Light Workflow Output</th>
+    <th style="text-align:center;">SV3D AnimateDiff Output</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><img src="src/i1.png" alt="input image" width="800"/></td>
+    <td style="text-align:center;"><img src="src/i2.webp" alt="Image 2" width="800"/></td>
+    <td style="text-align:center;"><img src="src/i3.gif" alt="Image 2" width="800"/></td>
+  </tr>
+</table>
+
+<table align=center>
+  <tr>
+    <th style="text-align:center;">Input</th>
+    <th style="text-align:center;">Output</th>
+  </tr>
+  <tr>
+    <td style="text-align:center;"><img src="src/iclight-input.webp" alt="input image" width="800"/></td>
+    <td style="text-align:center;"><img src="src/iclight-output.png" alt="Image 2" width="800"/></td>
   </tr>
 </table>
 
